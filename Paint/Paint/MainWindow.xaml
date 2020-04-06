@@ -1,0 +1,19 @@
+﻿<Window x:Class="Paint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Paint"
+        mc:Ignorable="d"
+        Title="Paint" Height="360.573" Width="671.592" WindowStartupLocation="CenterScreen" MouseDown="cmDown" MouseUp="cmUp" MouseMove="cmMove">
+    <Grid>
+        <Canvas x:Name="g" HorizontalAlignment="Center" Height="251" Margin="0,10,0,0" VerticalAlignment="Top" Width="645" Background="#FFD9EFEC"/>
+        <Button Content="Очистить" HorizontalAlignment="Left" Margin="10,266,0,0" VerticalAlignment="Top" Width="150" Click="cmClear"/>
+        <Rectangle Fill="Red" HorizontalAlignment="Left" Height="34" Margin="189,266,0,0" Stroke="Black" VerticalAlignment="Top" Width="36" MouseUp="cmRed"/>
+        <Rectangle Fill="Lime" HorizontalAlignment="Left" Height="34" Margin="230,266,0,0" Stroke="Black" VerticalAlignment="Top" Width="36" MouseUp="cmGreen"/>
+        <Rectangle Fill="Blue" HorizontalAlignment="Left" Height="34" Margin="271,266,0,0" Stroke="Black" VerticalAlignment="Top" Width="36" MouseUp="cmBlue"/>
+        <Rectangle x:Name="rColor" Fill="Blue" HorizontalAlignment="Left" Height="30" Margin="523,270,0,0" Stroke="Black" VerticalAlignment="Top" Width="132"/>
+        <Slider x:Name="slSize" HorizontalAlignment="Left" Margin="329,282,0,0" VerticalAlignment="Top" Width="151" Minimum="1" ValueChanged="cmSize"/>
+
+    </Grid>
+</Window>

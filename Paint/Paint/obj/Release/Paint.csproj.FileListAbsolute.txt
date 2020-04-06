@@ -1,0 +1,14 @@
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\bin\Release\Paint.exe.config
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\bin\Release\Paint.exe
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\bin\Release\Paint.pdb
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\obj\Release\Paint.csprojAssemblyReference.cache
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\obj\Release\MainWindow.g.cs
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\obj\Release\App.g.cs
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\obj\Release\Paint_MarkupCompile.cache
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\obj\Release\Paint_MarkupCompile.lref
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\obj\Release\MainWindow.baml
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\obj\Release\Paint.g.resources
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\obj\Release\Paint.Properties.Resources.resources
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\obj\Release\Paint.csproj.GenerateResource.cache
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\obj\Release\Paint.exe
+C:\aprogramm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\05-Графический редактор\Paint\Paint\obj\Release\Paint.pdb
